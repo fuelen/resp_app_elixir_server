@@ -1,5 +1,10 @@
 # Elixir Extension server for [RESP.app](https://resp.app/)
 
+## DEPRECATION NOTICE
+
+Resp.app doesn't exist anymore and Redist Insights doesn't support this type of extensions 
+
+## About
 You may want to use it if you work with libraries like 
 [nebulex_redis_adapter](https://github.com/cabol/nebulex_redis_adapter)
 or [redbird](https://github.com/thoughtbot/redbird)
